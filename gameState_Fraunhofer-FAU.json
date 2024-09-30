@@ -1,0 +1,18 @@
+{
+  "Conveyor1": {
+    "sensor": "0",
+    "motor": "1",
+    "speed": "5",
+    "interval": "20"
+  },
+  "Conveyor3": {
+    "sensor": "0",
+    "motor": "1",
+    "speed": "5",
+    "interval": "4"
+  },
+  "Conveyor2": {
+    "motor": "1",
+    "speed": "5"
+  }
+}
