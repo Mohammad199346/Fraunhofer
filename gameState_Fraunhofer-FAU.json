@@ -1,18 +1,33 @@
 {
   "Conveyor1": {
-    "sensor": "0",
-    "motor": "1",
-    "speed": "5",
-    "interval": "20"
+    "sensor1": "0",
+    "motor": "0",
+    "speed": "2",
+    "sensor": "0"
   },
   "Conveyor3": {
-    "sensor": "0",
-    "motor": "1",
-    "speed": "5",
-    "interval": "4"
+    "sensor3": "0",
+    "motor": "0",
+    "speed": "2",
+    "sensor": "1"
   },
   "Conveyor2": {
-    "motor": "1",
-    "speed": "5"
+    "motor": "0",
+    "speed": "2"
+  },
+  "Conveyor4": {
+    "sensor4": "0",
+    "motor": "0",
+    "speed": "2",
+    "sensor": "0"
+  },
+  "mConveyor1": {
+    "motor": "0"
+  },
+  "mConveyor2": {
+    "motor": "0"
+  },
+  "mConveyor3": {
+    "motor": "0"
   }
 }
